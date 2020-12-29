@@ -4,3 +4,5 @@ program ini membahas mengenai :
 >Register, Login, List data dari Userdata.
 >String manipulation pada bahasa c.
 >Operation File pada bahasa c
+
+pastikan compiler gcc yang terbaru.
